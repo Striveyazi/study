@@ -130,5 +130,3 @@ bundle.js  544 kB       0  [emitted]  [big]  main
    [2] (webpack)/buildin/module.js 517 bytes {0} [built]
    [3] ./app/index.js 216 bytes {0} [built]
 ```
-
-![QQ截图20170315170534](C:\Users\Administrator\Desktop\QQ截图20170315170534.png)
